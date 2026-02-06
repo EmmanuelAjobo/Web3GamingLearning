@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
-contract GameNFT {
+contract BadGame {
 
     mapping (address => bool) public hasSword;
     mapping (address => uint256) public swordStrength;
