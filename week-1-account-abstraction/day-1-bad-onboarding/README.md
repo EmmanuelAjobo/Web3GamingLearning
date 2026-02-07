@@ -174,8 +174,8 @@ function upgradeSword() public {
 ### Deployment Info
 
 **Network:** Sepolia Testnet  
-**Contract Address:** `[INSERT YOUR DEPLOYED ADDRESS]`  
-**Etherscan:** `https://sepolia.etherscan.io/address/[YOUR_ADDRESS]`  
+**Contract Address:** `0xd5d85F2c3c929293dC7e9cFc960f636610d6b235`  
+**Etherscan:** `https://sepolia.etherscan.io/address/0xd5d85f2c3c929293dc7e9cfc960f636610d6b235`  
 **Deployed:** February 6, 2026
 
 **Transaction Costs (Sepolia):**
@@ -195,7 +195,7 @@ function upgradeSword() public {
 
 ### Option 1: Use Etherscan (No Frontend)
 
-1. Go to: `https://sepolia.etherscan.io/address/[YOUR_CONTRACT_ADDRESS]`
+1. Go to: `https://sepolia.etherscan.io/address/0xd5d85f2c3c929293dc7e9cfc960f636610d6b235`
 2. Click "Write Contract"
 3. Connect your MetaMask (notice the friction)
 4. Call `claimSword()` (notice the gas fee popup)
