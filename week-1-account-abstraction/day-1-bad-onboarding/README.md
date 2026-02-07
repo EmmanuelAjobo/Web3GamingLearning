@@ -371,21 +371,6 @@ forge test --gas-report
 # upgradeSword: ~30,000 gas
 ```
 
----
-
-## 📚 Resources That Helped
-
-**Articles I Read:**
-- [Why Web3 Gaming Hasn't Taken Off](https://example.com) (placeholder)
-- [The Onboarding Problem in Crypto](https://example.com) (placeholder)
-
-**Data Sources:**
-- Industry reports on Web3 gaming retention
-- Personal testing with 5 non-crypto friends
-- Etherscan gas tracking data
-
----
-
 ## 🔗 What's Next
 
 **Tomorrow (Day 2):** Account Abstraction Implementation
