@@ -9,7 +9,7 @@
 A deliberately painful Web3 game onboarding experience that demonstrates why traditional wallet-first approaches kill user acquisition.
 
 **The Game:**
-- Simple NFT sword claiming mechanic
+- Simple Sword claiming mechanic
 - Upgrade your sword to increase power
 - Intentionally uses old-school Web3 UX patterns
 
